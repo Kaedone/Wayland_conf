@@ -1,12 +1,12 @@
 # Dotfiles
 
-- **OS**                - Arch
+- **OS**                - Garuda Linux
 - **Window Manager/DE** - hyprland
 - **File Manager**      - thunar
 - **Browser**           - firefox
 - **Terminal**          - kitty
 - **Shell**             - zsh
-- **Editor**            - nvim
+- **Editor**            - Neo Vim
 - **Top Bar**           - waybar
 - **Launcher**          - wofi
 - **Theme**             - Tokyo Night
